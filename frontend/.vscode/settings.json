@@ -1,0 +1,6 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always"
+    },
+    "cSpell.words": ["calibri", "datalabels", "geist", "Informations", "prosemirror"]
+}
