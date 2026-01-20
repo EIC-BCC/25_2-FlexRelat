@@ -4,7 +4,7 @@
 **Aluno:** Marcus Vinicius Gomes de Oliveira
 **Semestre de Defesa:** 2025-2
 
-[PDF do TCC](caminho_do_arquivo)
+[PDF do TCC](https://github.com/EIC-BCC/25_2-FlexRelat/blob/main/TCC%202%20Marcus%20Vinicius%20Gomes%20de%20Oliveira.pdf)
 
 
 # TL;DR
